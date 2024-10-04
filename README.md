@@ -11,7 +11,7 @@ This project is a single-page portfolio website designed to highlight the work o
 - Display of sample design projects
 - Minimal styling with custom CSS
 
-## Getting Started
+### Getting Started
 
 To run this project locally, follow these steps:
 
@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 - A web browser (Chrome, Firefox, Edge, etc.)
 - Git (to clone the repository)
 
-### Steps:
+## Steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/creative-minds-portfolio.git
@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
    cd creative-minds-portfolio
 3.open index.html
 
-### Project Structure
+## Project Structure
 creative-minds-portfolio/
 │
 ├── index.html       # Main HTML file
@@ -35,14 +35,14 @@ creative-minds-portfolio/
 ├── script.js        # JavaScript for interactivity (optional)
 └── assets/
     └── images/      # Folder for images and other media
-### Tools and Technologies Used
+## Tools and Technologies Used
 HTML5: Markup language for creating the structure of the web page.
 CSS3: Stylesheet language for designing the layout and look of the page.
 JavaScript: Basic JavaScript file to handle interactivity (optional).
 Git: Version control system to manage the project's codebase.
 GitHub: Remote repository for hosting and sharing the code.  
 
-  ### Key Actions
+ ## Key Actions
   Throughout the development of this project, Git was used for version control. Here's a log of some key Git actions:
 
 Initialized Git repository and added base files.
