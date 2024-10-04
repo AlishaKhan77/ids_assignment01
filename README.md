@@ -25,6 +25,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/creative-minds-portfolio.git
 2. Navigate to project directory
    cd creative-minds-portfolio
+   
 3.open index.html
 
 ## Tools and Technologies Used
@@ -43,7 +44,7 @@ Implemented navigation bar and portfolio sections.
 Styled the webpage using styles.css.
 Added images to the assets folder and linked them to the project.
 
-
+## Preview
 Working on this portfolio website provided me with valuable experience using Git and GitHub for version control. I created branches for new features, which allowed me to experiment without affecting the main codebase. One challenge I faced was merging branches when conflicts arose, but I was able to resolve them by carefully reviewing the conflicting code and ensuring both changes were integrated smoothly.
 
 Overall, this project helped me better understand the importance of frequent commits and branching to manage a project efficiently. Using GitHub also gave me insight into collaborative development and how tracking progress with commit history can make debugging and feature development more manageable.
