@@ -27,14 +27,6 @@ To run this project locally, follow these steps:
    cd creative-minds-portfolio
 3.open index.html
 
-## Project Structure
-creative-minds-portfolio/
-│
-├── index.html       # Main HTML file
-├── styles.css       # Stylesheet for the website
-├── script.js        # JavaScript for interactivity (optional)
-└── assets/
-    └── images/      # Folder for images and other media
 ## Tools and Technologies Used
 HTML5: Markup language for creating the structure of the web page.
 CSS3: Stylesheet language for designing the layout and look of the page.
